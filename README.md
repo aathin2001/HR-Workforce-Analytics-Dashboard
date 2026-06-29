@@ -25,7 +25,7 @@ A Tableau dashboard built to analyze employee workforce data, demographics, and 
 
 ## 🖼️ Screenshots
 ![image alt](https://github.com/aathin2001/HR-Analytics-Dashboard/blob/main/screen_shots/hr_overview.png)
-![image alt](https://github.com/aathin2001/HR-Analytics-Dashboard/blob/main/screen_shots/hr_dashboard_employee_details.png.png)
+![image alt](https://github.com/aathin2001/HR-Analytics-Dashboard/blob/main/screen_shots/hr_dashboard_employee_details.png)
 
 ## 💡 Key Insight
 Performance ratings showed limited correlation with education level, suggesting performance is driven more by role-specific factors than formal education.
